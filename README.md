@@ -1,181 +1,183 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Abhishek%20R%20Biradar&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20Developer%20•%20Computer%20Vision%20•%20Logistics%20Intelligence&descSize=17&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:7b2ff7,100:ff2e97&height=260&section=header&text=ABHISHEK%20R%20BIRADAR&fontSize=54&fontColor=ffffff&stroke=00f5ff&strokeWidth=1&animation=twinkling&fontAlignY=40&desc=%E2%9A%A1%20AI%20%2F%20ML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Logistics%20Intelligence&descSize=18&descAlignY=62" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Turning+real-world+problems+into+AI+systems;Computer+Vision+%7C+Deep+Learning+%7C+Data+Analytics;Building+Logistics+Intelligence+that+scales;2nd+Place+%E2%80%94+VTU+State-Level+Hackathon+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=820&height=50&lines=%3E+Turning+real-world+problems+into+AI+systems;%3E+Computer+Vision+%7C+Deep+Learning+%7C+Data+Analytics;%3E+Logistics+Intelligence+that+actually+ships;%3E+%F0%9F%A5%88+2nd+Place+%E2%80%94+VTU+State-Level+Hackathon+2026" alt="typing"/>
 
 <br/>
 
-<a href="https://github.com/AbhishekRBiradar"><img src="https://img.shields.io/badge/GitHub-AbhishekRBiradar-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/abhishek-r-biradar"><img src="https://img.shields.io/badge/LinkedIn-Abhishek_R_Biradar-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:abhishekrbiradar908a@gmail.com"><img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhishek-r-biradar"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:abhishekrbiradar908a@gmail.com"><img src="https://img.shields.io/badge/EMAIL-HIRE_ME-ff2e97?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/AbhishekRBiradar"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-7b2ff7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AbhishekRBiradar&label=Profile+Views&color=00b8d4&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/badge/Status-Building_%26_Learning-00e676?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-8.1%2F10-ff9800?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AbhishekRBiradar&label=VISITORS&color=00f5ff&style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff2e97&height=3&section=header" width="100%"/>
 
-## ⚡ `whoami`
+<div align="center">
 
-```bash
-$ whoami
-abhishek-r-biradar
+### `〔 SYSTEM STATUS 〕`
 
-$ cat profile.json
-{
-  "role"      : "AI/ML Developer",
-  "education" : "B.E. AI & ML — VVIT, Bengaluru (2023–2027)",
-  "focus"     : ["Computer Vision", "Deep Learning", "Logistics AI", "Data Analytics"],
-  "cloud"     : ["AWS", "Microsoft Azure"],
-  "mission"   : "Build useful AI systems that solve real operational problems",
-  "status"    : "🟢 Open to internships, collaborations & hackathons"
-}
+| 🟢 STATUS | 🎓 EDUCATION | 📈 CGPA | 🏆 LATEST WIN |
+| :-: | :-: | :-: | :-: |
+| **Open to Work** | **B.E. AI & ML · VVIT** | **8.1 / 10** | **🥈 VTU Hackathon 2026** |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff2e97&height=3&section=header" width="100%"/>
+
+## 🧬 `> whoami`
+
+```ts
+const abhishek = {
+  role:      "AI/ML Developer",
+  degree:    "B.E. Artificial Intelligence & Machine Learning (2023–2027)",
+  superpower:["Computer Vision", "Deep Learning", "Logistics AI", "Data Analytics"],
+  cloud:     ["AWS", "Microsoft Azure"],
+  mission:   "Build useful AI systems that solve real operational problems",
+  lookingFor:["Internships", "Collaborations", "Hackathon teams"],
+} as const;
 ```
 
 ---
 
-## 🧭 Focus Map
+## 🚀 `> ls ./projects`
 
-```mermaid
-flowchart LR
-    A[🧠 AI / ML Engineering] --> B[👁️ Computer Vision]
-    A --> C[📊 Data-Driven Apps]
-    B --> D[🎓 Attendance & Engagement AI]
-    C --> E[🚚 Logistics Intelligence]
-    E --> F[☁️ Cloud Deployment]
-    D --> F
-    style A fill:#0f2027,stroke:#00e5ff,color:#fff
-    style B fill:#203a43,stroke:#00e5ff,color:#fff
-    style C fill:#203a43,stroke:#00e5ff,color:#fff
-    style D fill:#2c5364,stroke:#00e5ff,color:#fff
-    style E fill:#2c5364,stroke:#00e5ff,color:#fff
-    style F fill:#0f2027,stroke:#00e676,color:#fff
-```
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ### 🚚 MerchantOps AI
 **Intelligent Logistics Operations Platform**
 
-Catches shipment and dispatch problems *before* they hurt delivery performance.
+*Catches shipment and dispatch issues before they hit delivery performance.*
 
-- 📦 Shipment aging monitoring
-- 🔍 Box-count mismatch detection
-- ⚠️ Damaged shipment monitoring
-- 🚚 Dispatch exception detection
-- 🔄 RTO risk analysis
-- 🔔 Intelligent operational alerts
-- 📊 Shipment & delivery analytics
+```mermaid
+flowchart LR
+    A[📦 Shipment Data] --> B{🧠 AI Engine}
+    B --> C[⏳ Aging Monitor]
+    B --> D[🔍 Box-Count Mismatch]
+    B --> E[⚠️ Damage Watch]
+    B --> F[🚚 Dispatch Exceptions]
+    B --> G[🔄 RTO Risk]
+    C & D & E & F & G --> H[🔔 Smart Alerts]
+    H --> I[📊 Analytics Dashboard]
+    style B fill:#7b2ff7,stroke:#00f5ff,color:#fff
+    style H fill:#ff2e97,stroke:#fff,color:#fff
+    style I fill:#00f5ff,stroke:#7b2ff7,color:#000
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-102230?style=flat-square)
-![Analytics](https://img.shields.io/badge/Data_Analytics-F2C811?style=flat-square&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-7b2ff7?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Data_Analytics-00f5ff?style=for-the-badge&logoColor=black)
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 🚛 LOGICOMMERCE AI V5
-**Vehicle Utilization Optimizer**
+**AI-Powered Vehicle Utilization Optimizer**
 
-Processes transfer requests, vehicle data and warehouse distances to support smarter vehicle allocation.
+*Transfer requests + vehicle data + warehouse distances → smarter allocation, less manual planning.*
 
-- 🚚 Vehicle utilization analysis
-- 📍 Warehouse-distance processing
-- 📦 Transfer request processing
-- ⚙️ Automated logistics analysis
-- 📊 Operational output generation
-- ⏱️ Less manual planning effort
+```mermaid
+flowchart LR
+    A[📥 Transfer Requests] --> D
+    B[🚚 Vehicle Info] --> D
+    C[📍 Warehouse Distances] --> D
+    D[⚙️ Optimization Engine] --> E[📊 Utilization Analysis]
+    E --> F[📄 Operational Output]
+    style D fill:#7b2ff7,stroke:#00f5ff,color:#fff
+    style F fill:#ff2e97,stroke:#fff,color:#fff
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<br/>
 
 ### 👁️ Automated Facial Recognition System
 **Deep Learning • Computer Vision**
 
-End-to-end identity verification and automated attendance, with classroom engagement monitoring.
+*End-to-end identity verification for automated attendance and classroom engagement monitoring.*
 
 ```mermaid
 flowchart LR
-    A[🎥 Video Frame] --> B[🖼️ Preprocessing]
-    B --> C[👤 Face & Landmark Localization]
-    C --> D[🧠 Deep Learning Recognition]
-    D --> E[🏫 Attendance Log]
-    D --> F[📊 Engagement Monitoring]
+    A[🎥 Live Frame] --> B[🖼️ Preprocess]
+    B --> C[👤 Landmark Localization]
+    C --> D[🧠 Deep Recognition]
+    D --> E[🏫 Auto Attendance]
+    D --> F[📊 Engagement Insights]
+    style D fill:#7b2ff7,stroke:#00f5ff,color:#fff
+    style E fill:#ff2e97,stroke:#fff,color:#fff
+    style F fill:#00f5ff,stroke:#7b2ff7,color:#000
 ```
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ `> cat ./stack.json`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,mysql,pytorch,opencv,react,tailwind,html,css,aws,azure,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,mysql,pytorch,opencv,react,tailwind,html,css,aws,azure,git,github,vscode&perline=8&theme=dark" />
 
 <br/><br/>
 
-| Domain | Tools |
+| Layer | Arsenal |
 | :-- | :-- |
-| 🧑‍💻 **Languages** | Python · C · C++ · SQL |
-| 🤖 **AI / ML** | PyTorch · OpenCV · Machine Learning · Computer Vision |
-| 📊 **Data** | Pandas · OpenPyXL · Power BI |
-| 🌐 **Web** | React.js · Tailwind CSS · HTML5 · CSS3 |
-| ☁️ **Cloud** | AWS · Microsoft Azure |
-| 🛠️ **Workflow** | Git · GitHub · VS Code |
+| 🧑‍💻 **Languages** | `Python` `C` `C++` `SQL` |
+| 🤖 **AI / ML** | `PyTorch` `OpenCV` `Machine Learning` `Computer Vision` |
+| 📊 **Data** | `Pandas` `OpenPyXL` `Power BI` |
+| 🌐 **Web** | `React.js` `Tailwind CSS` `HTML5` `CSS3` |
+| ☁️ **Cloud** | `AWS` `Microsoft Azure` |
+| 🧰 **Tools** | `Git` `GitHub` `VS Code` |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📡 `> git stats --live`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbhishekRBiradar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRBiradar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=AbhishekRBiradar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff2e97&text_color=c9d1d9&ring_color=7b2ff7&rank_icon=github" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRBiradar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
 
-<img src="https://streak-stats.demolab.com?user=AbhishekRBiradar&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=AbhishekRBiradar&theme=radical&hide_border=true&background=0d1117&ring=7b2ff7&fire=ff2e97&currStreakLabel=00f5ff" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekRBiradar&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" />
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekRBiradar&custom_title=Contribution%20Activity&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ff2e97&area_color=7b2ff7&area=true&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbhishekRBiradar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=AbhishekRBiradar&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+<br/>
+
+<!-- 🐍 Snake animation: requires the snake.yml workflow (see setup notes) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhishekRBiradar/AbhishekRBiradar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhishekRBiradar/AbhishekRBiradar/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AbhishekRBiradar/AbhishekRBiradar/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 `> achievements --unlocked`
 
-| | Achievement | Where | When |
+<div align="center">
+
+| | Achievement | Location | Year |
 | :-: | :-- | :-- | :-: |
-| 🥈 | **VTU State-Level Hackathon — 2nd Place** | Chikkaballapur | 2026 |
-| 🌐 | **Bengaluru Tech Summit — Business Delegate** | Bengaluru | 2025 |
-| 🚀 | **Startup Mahakumbh — Future Entrepreneur** | Pragati Maidan, New Delhi | 2025 |
+| 🥈 | **VTU State-Level Hackathon — 2nd Place Winner** | Chikkaballapur | `2026` |
+| 🌐 | **Bengaluru Tech Summit — Business Delegate** | Bengaluru | `2025` |
+| 🚀 | **Startup Mahakumbh — Future Entrepreneur** | Pragati Maidan, New Delhi | `2025` |
+
+</div>
 
 <details>
 <summary><b>📜 Certifications</b></summary>
@@ -186,52 +188,35 @@ Modern programming practices, logical problem-solving and foundational engineeri
 
 </details>
 
-<details>
-<summary><b>🎓 Education</b></summary>
-<br/>
-
-**B.E. — Artificial Intelligence & Machine Learning**
-Vijaya Vittala Institute of Technology (VVIT), Bengaluru
-2023 – 2027 · CGPA **8.1 / 10**
-
-</details>
-
 ---
 
-## 🎯 Currently Building
+## 🎯 `> roadmap`
 
-```python
-class Abhishek:
-    role = "AI/ML Developer"
-
-    building = [
-        "AI-powered logistics solutions",
-        "Computer vision applications",
-        "Data-driven automation systems",
-    ]
-
-    learning = ["Cloud architecture", "Deep learning", "Production ML"]
-
-    def goal(self):
-        return "Build useful AI systems that solve real-world problems"
+```mermaid
+timeline
+    title Abhishek's Build Path
+    Foundations : Python · C · C++ · SQL
+    Machine Learning : PyTorch · OpenCV · Pandas
+    Applied AI : Facial Recognition · Logistics Optimization
+    Now : MerchantOps AI · Cloud (AWS / Azure)
+    Next : Production ML · Computer Vision at scale
 ```
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-Open to **collaborations, internships and hackathon teams**. If you're working on AI, vision or logistics problems, say hi.
+### 💬 Let's build something
 
-<a href="mailto:abhishekrbiradar908a@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abhishek-r-biradar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/AbhishekRBiradar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+*Open to collaborations, internships and hackathon teams working on AI, vision or logistics problems.*
+
+<a href="mailto:abhishekrbiradar908a@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-ff2e97?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/abhishek-r-biradar"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
 
 <br/>
 
-**🚀 Building • Learning • Experimenting • Improving**
+`🚀 Building • Learning • Experimenting • Improving`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:7b2ff7,100:00f5ff&height=140&section=footer" width="100%"/>
 
 </div>
